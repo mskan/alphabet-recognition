@@ -1,1 +1,1 @@
-# alphabet-recognition
+# alphabet-detection
